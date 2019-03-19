@@ -20,15 +20,14 @@ Here's a link to my speed cubing career statistics:- [Click Here](https://www.wo
 - __My Favorites__ :
             <ol>
               <li> Movie    : Godfather I,Jigarthanda </li>
-              <li> Series   : F.R.I.E.N.D.S , Sherlock </li>
-              <li> Franchise : Harry Potter,Marvel </li>
-              <li> Director : Tarantino,Nolan </li>
-              <li> Actor    : Robert De Niro,Jamie Foxx </li>
+              <li> Series   : The Office </li>
+              <li> Franchise : Marvel </li>
+              <li> Director : Tarantino, Scorsese </li>
+              <li> Actor    : Robert De Niro </li>
               <li> Actress  : Natalie Portman </li>
-              <li> Band     : Fall Out Boy </li>
-              <li> Artist   : Changes over time :p But the constants are Ed Sheeran and Lana Del Rey. </li>
-              <li> Youtuber : Pewdiepie,Dave2D,Unbox Therapy </li>
-              <li> FB Page  : DMS , Troll Football-Tamil </li>
+              <li> Artist   : Changes over time :p But the constant is Ilayaraja </li>
+              <li> Youtuber : Pewdiepie,Dave2D,MKBHD </li>
+              <li> FB Page  : DMS, Troll Football-Tamil </li>
               <li> Quote : "The best way to predict future is to create it" </li>
             </ol>  
                
