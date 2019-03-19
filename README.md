@@ -9,7 +9,7 @@ Hey Guys ! My name is Dharaneeshwar SK. A student of NIT Trichy pursuing Product
 
 - __Cubing__ :  I have been a speed-cuber for a while now and it has always been one of the things that can relieve my stress during a hectic semester. My personnel record is 11 secs on a 3x3 (i.e) [Rubik's Cube](https://www.google.co.in/search?q=rubik%27s+cube&source=lnms&tbm=isch&sa=X&ved=0ahUKEwis9MX--v3aAhUYSI8KHerPB8QQ_AUICigB&biw=1536&bih=758#imgrc=osza7DzVNF1xqM:) and I average around 17-19 secs.Attending Competitions have always been an integral part of speed cubing has the community is full of fun people.It doesn't feel like a competition at all,it's more like a fun meet between people of similar interest.
 
-<b>Graphic Design</b> : [Click here](https://www.instagram.com/beastmaster_064/)
+- __Graphic Design__ : [Click here](https://www.instagram.com/beastmaster_064/)
 
 Here's a link to my speed cubing career statistics:- [Click Here](https://www.worldcubeassociation.org/persons/2015KUMA02)
 
